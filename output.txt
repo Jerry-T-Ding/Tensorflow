@@ -1,0 +1,429 @@
+    Year       GDP     LnGDP    Deposit       Loan       D/G       L/G
+0   1999   1018.97  6.926548    9160001    8945730  0.898947  0.877919
+1   2000   1191.25  7.082758   10560624    9564293  0.886516  0.802879
+2   2001   1368.55  7.221507   12323942   10798871  0.900511  0.789074
+3   2002   1583.51  7.367399   15225733   13044792  0.961518  0.823790
+4   2003   1869.44  7.533394   18920868   16783917  1.012114  0.897805
+5   2004   2270.16  7.727606   22462592   18472613  0.989472  0.813714
+6   2005   2687.46  7.896352   26975372   20394792  1.003750  0.758887
+7   2006   3183.18  8.065636   32453583   25779442  1.019533  0.809864
+8   2007   3750.16  8.229554   38915882   30970553  1.037713  0.825846
+9   2008   4401.56  8.389714   47353803   37483209  1.075841  0.851589
+10  2009   4853.87  8.487532   63019764   48735326  1.298341  1.004051
+11  2010   5666.19  8.642272   76592065   58862263  1.351738  1.038833
+12  2011   6615.60  8.797186   86384994   69477500  1.305777  1.050207
+13  2012   7302.11  8.895919   94348924   79465532  1.292078  1.088254
+14  2013   8006.56  8.988016  109695588   88607439  1.370071  1.106686
+15  2014   8692.10  9.070170  113703085   97200532  1.308120  1.118263
+16  2015   9300.07  9.137777  125330268  107718528  1.347627  1.158255
+17  2016  10011.29  9.211469  140071344  118916821  1.399134  1.187827
+
+
+After 0 training step(s), loss on all data is 37.836
+w:
+ [[0.654152 ]
+ [0.8563308]]
+b:
+ -2.031425
+
+
+After 1000 training step(s), loss on all data is 0.142251
+w:
+ [[3.392586]
+ [3.583339]]
+b:
+ 0.9215487
+
+
+After 2000 training step(s), loss on all data is 0.12073
+w:
+ [[3.2466333]
+ [3.3950624]]
+b:
+ 1.2539588
+
+
+After 3000 training step(s), loss on all data is 0.0949413
+w:
+ [[3.0677931]
+ [3.1377995]]
+b:
+ 1.7346789
+
+
+After 4000 training step(s), loss on all data is 0.071728
+w:
+ [[2.858521]
+ [2.799347]]
+b:
+ 2.2612824
+
+
+After 5000 training step(s), loss on all data is 0.0550094
+w:
+ [[2.7137263]
+ [2.4615006]]
+b:
+ 2.7943554
+
+
+After 6000 training step(s), loss on all data is 0.045878
+w:
+ [[2.6152842]
+ [2.1017978]]
+b:
+ 3.2053592
+
+
+After 7000 training step(s), loss on all data is 0.0407368
+w:
+ [[2.632256]
+ [1.799753]]
+b:
+ 3.5245497
+
+
+After 8000 training step(s), loss on all data is 0.0381565
+w:
+ [[2.6921263]
+ [1.5029557]]
+b:
+ 3.7002928
+
+
+After 9000 training step(s), loss on all data is 0.0362751
+w:
+ [[2.818524 ]
+ [1.2626604]]
+b:
+ 3.8236198
+
+
+After 10000 training step(s), loss on all data is 0.0346753
+w:
+ [[2.948147 ]
+ [1.0298684]]
+b:
+ 3.8794847
+
+
+After 11000 training step(s), loss on all data is 0.0334662
+w:
+ [[3.0880666]
+ [0.8259335]]
+b:
+ 3.9191215
+
+
+After 12000 training step(s), loss on all data is 0.0324044
+w:
+ [[3.2231905]
+ [0.6363241]]
+b:
+ 3.9422975
+
+
+After 13000 training step(s), loss on all data is 0.0315861
+w:
+ [[3.346814  ]
+ [0.45909232]]
+b:
+ 3.9540625
+
+
+After 14000 training step(s), loss on all data is 0.0307618
+w:
+ [[3.4716842 ]
+ [0.30477133]]
+b:
+ 3.9738877
+
+
+After 15000 training step(s), loss on all data is 0.0303707
+w:
+ [[3.575183 ]
+ [0.1513622]]
+b:
+ 3.9752388
+
+
+After 16000 training step(s), loss on all data is 0.0296419
+w:
+ [[3.687069  ]
+ [0.02763703]]
+b:
+ 3.9974132
+
+
+After 17000 training step(s), loss on all data is 0.0292248
+w:
+ [[ 3.774834]
+ [-0.101671]]
+b:
+ 3.9968624
+
+
+After 18000 training step(s), loss on all data is 0.0288612
+w:
+ [[ 3.8679752 ]
+ [-0.20540598]]
+b:
+ 4.014867
+
+
+After 19000 training step(s), loss on all data is 0.0284801
+w:
+ [[ 3.9454517 ]
+ [-0.30989763]]
+b:
+ 4.018157
+
+
+After 20000 training step(s), loss on all data is 0.0282257
+w:
+ [[ 4.016338  ]
+ [-0.40285245]]
+b:
+ 4.025499
+
+
+After 21000 training step(s), loss on all data is 0.0279943
+w:
+ [[ 4.080599  ]
+ [-0.48976427]]
+b:
+ 4.029743
+
+
+After 22000 training step(s), loss on all data is 0.0278431
+w:
+ [[ 4.137643  ]
+ [-0.56911707]]
+b:
+ 4.031631
+
+
+After 23000 training step(s), loss on all data is 0.0276742
+w:
+ [[ 4.19286   ]
+ [-0.63897306]]
+b:
+ 4.039211
+
+
+After 24000 training step(s), loss on all data is 0.0276627
+w:
+ [[ 4.239252 ]
+ [-0.7061402]]
+b:
+ 4.0376406
+
+
+After 25000 training step(s), loss on all data is 0.0274536
+w:
+ [[ 4.289095  ]
+ [-0.75930536]]
+b:
+ 4.049692
+
+
+After 26000 training step(s), loss on all data is 0.0273851
+w:
+ [[ 4.328185 ]
+ [-0.8150657]]
+b:
+ 4.0478687
+
+
+After 27000 training step(s), loss on all data is 0.0273378
+w:
+ [[ 4.3693323]
+ [-0.8586638]]
+b:
+ 4.0582023
+
+
+After 28000 training step(s), loss on all data is 0.0272761
+w:
+ [[ 4.4044447 ]
+ [-0.90273464]]
+b:
+ 4.0595665
+
+
+After 29000 training step(s), loss on all data is 0.0272046
+w:
+ [[ 4.4334335 ]
+ [-0.94375235]]
+b:
+ 4.062073
+
+
+After 30000 training step(s), loss on all data is 0.0271482
+w:
+ [[ 4.4602704]
+ [-0.982419 ]]
+b:
+ 4.0627537
+
+
+After 31000 training step(s), loss on all data is 0.0271265
+w:
+ [[ 4.4843974]
+ [-1.0166047]]
+b:
+ 4.0626254
+
+
+After 32000 training step(s), loss on all data is 0.0271037
+w:
+ [[ 4.506967 ]
+ [-1.0480317]]
+b:
+ 4.0657353
+
+
+After 33000 training step(s), loss on all data is 0.0271333
+w:
+ [[ 4.527189 ]
+ [-1.0765767]]
+b:
+ 4.063676
+
+
+After 34000 training step(s), loss on all data is 0.0270463
+w:
+ [[ 4.5493155]
+ [-1.098621 ]]
+b:
+ 4.0713954
+
+
+After 35000 training step(s), loss on all data is 0.0270379
+w:
+ [[ 4.5669136]
+ [-1.1222289]]
+b:
+ 4.069385
+
+
+After 36000 training step(s), loss on all data is 0.027046
+w:
+ [[ 4.585401 ]
+ [-1.1398098]]
+b:
+ 4.0764084
+
+
+After 37000 training step(s), loss on all data is 0.0270593
+w:
+ [[ 4.6021686]
+ [-1.1578658]]
+b:
+ 4.077105
+
+
+After 38000 training step(s), loss on all data is 0.0270127
+w:
+ [[ 4.6131406]
+ [-1.1766043]]
+b:
+ 4.077603
+
+
+After 39000 training step(s), loss on all data is 0.0269896
+w:
+ [[ 4.6239567]
+ [-1.1946361]]
+b:
+ 4.0768156
+
+
+After 40000 training step(s), loss on all data is 0.0269901
+w:
+ [[ 4.634003 ]
+ [-1.2095444]]
+b:
+ 4.075887
+
+
+After 41000 training step(s), loss on all data is 0.0270016
+w:
+ [[ 4.64263  ]
+ [-1.2245702]]
+b:
+ 4.077093
+
+
+After 42000 training step(s), loss on all data is 0.0270258
+w:
+ [[ 4.651674 ]
+ [-1.2366557]]
+b:
+ 4.074881
+
+
+After 43000 training step(s), loss on all data is 0.0269707
+w:
+ [[ 4.6619616]
+ [-1.2454333]]
+b:
+ 4.0807333
+
+
+After 44000 training step(s), loss on all data is 0.026971
+w:
+ [[ 4.6703553]
+ [-1.2553066]]
+b:
+ 4.078687
+
+
+After 45000 training step(s), loss on all data is 0.0269879
+w:
+ [[ 4.6791496]
+ [-1.2617638]]
+b:
+ 4.084272
+
+
+After 46000 training step(s), loss on all data is 0.0270215
+w:
+ [[ 4.6880426]
+ [-1.2686749]]
+b:
+ 4.0847073
+
+
+After 47000 training step(s), loss on all data is 0.0269759
+w:
+ [[ 4.6913056]
+ [-1.2778633]]
+b:
+ 4.084332
+
+
+After 48000 training step(s), loss on all data is 0.0269595
+w:
+ [[ 4.695221 ]
+ [-1.2870194]]
+b:
+ 4.0829315
+
+
+After 49000 training step(s), loss on all data is 0.0269633
+w:
+ [[ 4.6991982]
+ [-1.2936313]]
+b:
+ 4.0816727
+
+
+After 50000 training step(s), loss on all data is 0.0269843
+w:
+ [[ 4.7018285]
+ [-1.3015943]]
+b:
+ 4.0820484
+
+
